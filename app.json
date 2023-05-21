@@ -13,7 +13,8 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/adarsh-goel/-pro/",
+  //"repository": "https://github.com/adarsh-goel/-pro/",
+    "repository": "https://github.com/Svkmovies/Filelinkrepo1",
   "success_url": "/",
   "logo": "https://i.ibb.co/MnMZ1Sy/download-1.jpg",
   "website": "http://adarsh.eu.org",
